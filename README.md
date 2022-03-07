@@ -19,7 +19,7 @@
 |部品名|数|||
 |-|-|-|-|
 |キースイッチ|〜60|Kailh ロープロファイル|[遊舎工房](https://shop.yushakobo.jp/products/pg1350) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/choc-switches)|
-|キーキャップ|〜60|Kailh ロープロファイル用|[遊舎工房](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1)（WRK Daily/Legendはサイズが大きいので使用できません。|
+|キーキャップ|〜60|Kailh ロープロファイル用|[遊舎工房](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1)|
 |Type-C ケーブル|1|||
 
 ### 必要な工具
