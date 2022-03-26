@@ -23,8 +23,6 @@
 |キースイッチ|17|Kailh ロープロファイル|[遊舎工房](https://shop.yushakobo.jp/products/pg1350) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/choc-switches)|
 |キーキャップ|17|Kailh ロープロファイル用|[遊舎工房](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1)|
 
-※WRK Daily/Legendはサイズが大きいため使えません。
-
 ### 必要な工具
 |工具名|
 |-|
