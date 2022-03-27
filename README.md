@@ -63,7 +63,7 @@ ChromeかEdgeでRemapにアクセスしてください。
 ドラッグアンドドロップでキーマップの変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap2.png)  
 
-
+## そのほか
 
 ### ファームウェアのコード
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/armors_np
