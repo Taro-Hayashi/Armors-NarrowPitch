@@ -39,7 +39,7 @@
 ## プレートの取り付け
 ![](img/IMG_4954.jpg)  
 ![](img/IMG_4955.jpg)  
-![](img/IMG_4957.jpg)  
+![](img/IMG_6579.jpg)  
 ![](img/IMG_4963.jpg)  
 
 ## キーマップのカスタマイズ
