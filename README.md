@@ -19,9 +19,9 @@
 ### キット以外に必要なもの
 |部品名|数|||
 |-|-|-|-|
-|Type-C ケーブル|1|||
 |キースイッチ|17|Kailh ロープロファイル|[遊舎工房](https://shop.yushakobo.jp/products/pg1350) / [TALP KEYBOARD](https://talpkeyboard.net/?category_id=620de8df0020fc01abddc60e) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/choc-switches)|
 |キーキャップ|17|Kailh ロープロファイル用|[遊舎工房](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1) / [TALP KEYBOARD](https://talpkeyboard.net/?category_id=623833f723c2aa4779e17298) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/choc-keycaps)|
+|Type-Cケーブル|1|||
 
 ### 必要な工具
 |工具名|
