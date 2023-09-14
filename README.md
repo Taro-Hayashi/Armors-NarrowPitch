@@ -63,9 +63,6 @@ ChromeかEdgeでRemapにアクセスしてください。
 ### ファームウェアのコード
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/archive/armors_np
 
-### VIA用JSON
-- [armors_np.json](https://github.com/Taro-Hayashi/Armors-NarrowPitch/releases/download/0.16.6/armors_np.json)
-
 ### プレートのデータ
 - [armors_np_plates.zip](https://github.com/Taro-Hayashi/Armors-NarrowPitch/releases/download/0.16.6/armors_np_plates.zip)
 
